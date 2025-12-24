@@ -30,6 +30,7 @@ Key objectives of the project include:
 * IR Obstacle Avoidance Sensor Module ×2
 * L298N Motor Driver ×1
 * DC Motors (100 RPM) ×2
+* A rigid platform
 * BO Wheels ×2
 * Metal Ball Caster Wheel ×1
 * Li-ion Battery (3.7V) ×2
